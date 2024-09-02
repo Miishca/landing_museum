@@ -18,7 +18,7 @@ The landing page for the museum is designed to offer an engaging and informative
 ### Demo
 
 - [GitHub Repository](https://github.com/miishca/landing_museum)
-- [Live Demo](https://miishca.github.io/landing_museum/)
+- [Live Demo](https://miishca.github.io/xlanding_museum/)
 
 ## Technologies Used
 
